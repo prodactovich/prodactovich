@@ -2,6 +2,9 @@
 
 **Founder-minded Engineer | Data Engineering | Python | Product Systems**
 
+- **MIPT (МФТИ)** — IT Product Management
+- **Yandex Practicum** — Data Engineering
+
 Строю продукты и data-системы с нуля: от идеи и бизнес-логики до backend, базы данных и будущего аналитического слоя.  
 Мне близок инженерный подход с продуктовым мышлением: не просто писать код, а собирать целостные системы, которые решают реальную задачу для пользователя.
 
